@@ -6,3 +6,5 @@ My two hobbies are:
 * Playing basketball
 * Playing Video Games
 * Studying
+
+![Favorite player](http://cdn.chatsports.com/thumbnails/127-39759-original.jpeg)
