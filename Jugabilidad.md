@@ -14,3 +14,14 @@
 ### Grafícos
 
 #### Los graficos es como un juego se ve visualment. Por ejemplo: Puede ser dibujado, diseñado, alta resolución, estilo simple, 3D o 2D
+####
+
+## objetos
+####
+####
+
+## mecanica
+####
+####
+
+
