@@ -48,5 +48,5 @@
 #### El mundo en BO2 es comosi fuera el mundo real. No hay persona con superpoderes, pero si hay mucha tecnología.
 <img      src= "https://th.bing.com/th/id/R.7fa1ac8766f1b4732b0cf946f2e1d83f?rik=%2fAVXBPVrTx0b%2bw&pid=ImgRaw&r=0"
           title= "BO2 IMAGE"
-          width= "20%"
-          height= "20%" />
+          width= "40%"
+          height= "40%" />
