@@ -6,12 +6,12 @@
 
 ### background
 
-#### El background ayuda a preparar el escenario para el juego y da un sentido a las acciones de las acciones del jugador.
+#### El background ayuda a preparar el escenario para el juego y da un sentido a las acciones del jugador.
 #### Guerra fría, U.S en busca de poder, guerra con otos países. 
 
 
 ### Sonido
-
+#### Es el ambiente del juego. El sonido puede determinar lo bueno que puede ser un jugador.
 #### Pasos, disparos, recargar, callouts, sonido cuando muere, explosiones, cuando cae en agua, sonido cuando cae, respiros y sonidos cuando se mueve con su equipo.
 
 ### Grafícos
@@ -20,11 +20,32 @@
 #### BO2 tiene graficas 3D y diseñadas.
 
 ## objetos
-#### Son componentes que son fundamentales para un juego como armas, granadas, "killstreaks" etc.
+#### Son componentes que son fundamentales para un juego como armas, med kit espadas etc. 1En cada juegp tiene que haber objetos para que el juego sea divertido.
 #### Armas, miras opticas, granadas, attachments para las armas, camiones, carros,"killstreaks" etc.
 
 ## mecanica
-#### Son acciones como correr, saltar, interactuar, mirar hacia los lados etc.
-#### X para saltar o confirmar, ▲ para cambiar de arma, ▨ para recargar o interactuar, O para agacharse, acostarse o "dive" R2 para disparar R1 para lethal L1 flashbangs etc. L2 para apuntar, ↑ para elegir tu "killstreak" o elegir otra cosa, → para lanzar "killstreak". R3 para mirar alrededor L3 para moverse.
+#### Son acciones como correr, saltar, interactuar, mirar hacia los lados etc. Unos juegos la mecanica es diferente puede ser fluida a más rigida.
+#### En BO2 puedes saltar, agacharte, acostarte, arrodillarte o dive.
+## Dificultad
+#### Que tan dificil es el juego. En rodos los juegos la dificultad es diferente puede ser de facíl a descabellado.
+#### Depende de tus oponentes. Puede haber gente que no es buena en el juego o gente que son muy buena.
 
+## Personajes
+#### La perona juega con un personaje y los juegos siempre hay un enemigo. Todo juego requiere esto
+####  Los personajes pertenecen a un organización llamada "strike force". Que intentan detener el terrorismo.
 
+## Objetivos o reglas
+#### El objetivo es la razón por la que tu juegas tal juego y las reglas es para evitar "exploit".
+####  El objetivo mayor en call of duty es ser nivel maximo y obtener todos los cosmeticos. Las reglas como si tienes aimbot serás baneado, no utilizar unlock tool para que el juego sea divertido.
+
+## Controles
+#### Son los botones que tienes que presionar para llevar a cabo en un juego.
+#### X para saltar o confirmar, ▲ para cambiar de arma, ▨ para recargar o interactuar, O para agacharse, acostarse o "dive" R2 para disparar R1 para lethal L1 flashbangs etc. L2 para apuntar, ↑ para elegir tu "killstreak" o elegir otra cosa, → para lanzar "killstreak". R3 para mirar alrededor L3 para moverse
+
+## Mundo
+#### Mundo es donde se desarolla el juego. Pude ser un mundo paralelo, linea de tiempo, mundo ficticio etc.
+#### El mundo en BO2 es comosi fuera el mundo real. No hay persona con superpoderes, pero si hay mucha tecnología.
+<img      src= "https://th.bing.com/th/id/R.7fa1ac8766f1b4732b0cf946f2e1d83f?rik=%2fAVXBPVrTx0b%2bw&pid=ImgRaw&r=0"
+          title= "BO2 IMAGE"
+          width= "20%"
+          height= "20%" />
