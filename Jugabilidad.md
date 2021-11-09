@@ -4,7 +4,7 @@
 
 #### La atmosfera contiene 3 cosas importantes son: Sonidos, graficos y background que componen las bases de un juego. Luego necesitara mecanicas y todo los elementos que compone un videojuego.
 
-### background
+### Background
 
 #### El background ayuda a preparar el escenario para el juego y da un sentido a las acciones del jugador.
 #### Guerra fría, U.S en busca de poder, guerra con otos países. 
@@ -19,13 +19,14 @@
 #### Los graficos es como un juego se ve visualment. Por ejemplo: Puede ser dibujado, diseñado, alta resolución, estilo simple, 3D o 2D
 #### BO2 tiene graficas 3D y diseñadas.
 
-## objetos
+## Objetos
 #### Son componentes que son fundamentales para un juego como armas, med kit espadas etc. 1En cada juegp tiene que haber objetos para que el juego sea divertido.
 #### Armas, miras opticas, granadas, attachments para las armas, camiones, carros,"killstreaks" etc.
 
-## mecanica
+## Mecanica
 #### Son acciones como correr, saltar, interactuar, mirar hacia los lados etc. Unos juegos la mecanica es diferente puede ser fluida a más rigida.
 #### En BO2 puedes saltar, agacharte, acostarte, arrodillarte o dive.
+
 ## Dificultad
 #### Que tan dificil es el juego. En rodos los juegos la dificultad es diferente puede ser de facíl a descabellado.
 #### Depende de tus oponentes. Puede haber gente que no es buena en el juego o gente que son muy buena.
@@ -36,7 +37,7 @@
 
 ## Objetivos o reglas
 #### El objetivo es la razón por la que tu juegas tal juego y las reglas es para evitar "exploit".
-####  El objetivo mayor en call of duty es ser nivel maximo y obtener todos los cosmeticos. Las reglas como si tienes aimbot serás baneado, no utilizar unlock tool para que el juego sea divertido.
+####  El objetivo mayor en call of duty es ganar, ser nivel maximo y obtener todos los cosmeticos. Las reglas como si tienes aimbot serás baneado, no utilizar unlock tool para que el juego sea divertido.
 
 ## Controles
 #### Son los botones que tienes que presionar para llevar a cabo en un juego.
