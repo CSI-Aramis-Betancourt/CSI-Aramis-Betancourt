@@ -23,18 +23,16 @@
             width="20%"
             height="20%" 
             />
-</div>
-
-
-
-       This is a image of yourrage first time showing his face. This was because he got banned on twitch for violating some T.O.S. rules. Since that day he has never violated a rule again. He has been banned multiple times the reason for such thing is because at that time he did not had a twitch partnership. Twitch has a banned service about banning people. Yourrage has also said:If you don't have a twitch partnership you are not safe in this platform.
+</div> <p style> This is a image of yourrage first time showing his face. This was because he got banned on twitch for violating some T.O.S. rules. Since that day he has never violated a rule again. He has been banned multiple times the reason for such thing is because at that time he did not had a twitch partnership. Twitch has a banned service about banning people. Yourrage has also said:If you don't have a twitch partnership you are not safe in this platform. </p>
    
-    <div align="center">
+ <div align="center">
     <img    src="https://th.bing.com/th/id/OIP.YdOPLtJarMQJYPkFZ1ZgDwHaFj?w=228&h=180&c=7&r=0&o=5&pid=1.7"
             title="Yourrage"
             width="20%"
             height="20%" 
             />
+
+<p 
             
 </div>
     
@@ -85,5 +83,5 @@
 <br><br>
 
 <p>
-    <i>Made by: <u>Carlos Jose Cobian</u> on December 2, 2021</i>
+    <i>Made by: <u>Aramis Betancourt</u> on December 12, 2021</i>
 </p>
