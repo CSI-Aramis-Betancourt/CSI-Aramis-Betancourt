@@ -17,13 +17,19 @@
 </p>
 
 
+<br>
+
+
 <div align="center">
     <img    src="https://i.ytimg.com/vi/HxrsRCk2_8w/hqdefault.jpg"
             title="Yourrage"
             width="20%"
             height="20%" 
             />
-</div> <p style> This is a image of yourrage first time showing his face. This was because he got banned on twitch for violating some T.O.S. rules. Since that day he has never violated a rule again. He has been banned multiple times the reason for such thing is because at that time he did not had a twitch partnership. Twitch has a banned service about banning people. Yourrage has also said:If you don't have a twitch partnership you are not safe in this platform. </p>
+    <br>
+    
+    
+</div> <p style = "text-indent: 2cm; font-family: Comic Sans MS; font-size:110%"> This is a image of yourrage first time showing his face. This was because he got banned on twitch for violating some T.O.S. rules. Since that day he has never violated a rule again. He has been banned multiple times the reason for such thing is because at that time he did not had a twitch partnership. Twitch has a banned service about banning people. Yourrage has also said:If you don't have a twitch partnership you are not safe in this platform. </p>
    
  <div align="center">
     <img    src="https://th.bing.com/th/id/OIP.YdOPLtJarMQJYPkFZ1ZgDwHaFj?w=228&h=180&c=7&r=0&o=5&pid=1.7"
@@ -31,7 +37,12 @@
             width="20%"
             height="20%" 
             />
-
+    
+    <br>
+    
+   
+<p style = "text-indent: 2cm; font-family: Comic Sans MS; font-size:110%">
+    This image showcase how Yourrage explained his visit at the doctor. The thing is Yourrage has also injured his shoulder by playing basketball. When he was aboutto drive to the basket somebody pull his shoulder backwards which caused his shoulder to be dislocated. Yes, just how you expected they mock kim by his shoulder too. Also people will say he is a robot. Why? If you have a bad shoulder or knees (Which rage has) what could be a good substitution? Yes, you guessed it right bionic knees or shoulders. Till this day this jokes still hunt him down.
 <p 
             
 </div>
